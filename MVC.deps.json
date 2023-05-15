@@ -22,16 +22,16 @@
   },
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "API dotnet/1.0.0": {
+      "MVC/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.NETCore.App": "2.1.0"
         },
         "runtime": {
-          "API dotnet.dll": {}
+          "MVC.dll": {}
         },
         "compile": {
-          "API dotnet.dll": {}
+          "MVC.dll": {}
         }
       },
       "Microsoft.NETCore.App/2.1.0": {
@@ -3146,7 +3146,7 @@
     }
   },
   "libraries": {
-    "API dotnet/1.0.0": {
+    "MVC/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
